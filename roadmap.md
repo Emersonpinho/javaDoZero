@@ -6,6 +6,6 @@
     [x] Independente de plataforma
 
 [x] Oque é *JVM*?
-[] instalação
+[x] instalação
 
 [] Ambiente de desenvolvimento
