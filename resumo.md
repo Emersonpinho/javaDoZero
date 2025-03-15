@@ -31,3 +31,9 @@ codigo em java -> transforma ele em bytecode -> JVM
 ## Instalação 
 
 [Baixe aqui](https://www.oracle.com/java/technologies/downloads/)
+
+## Sintaxe basica
+
+### Variaveis
+
+Espaço na memoria, não vamos falar sobre tipos de variaveis agora!

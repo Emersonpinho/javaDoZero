@@ -9,4 +9,4 @@
 [x] instalação
 
 [] sintaxe Basica
-    
+    [] variaveis
