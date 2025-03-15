@@ -2,7 +2,7 @@
 
 [] A base da linguagem java
     [x] POO
-    [] Fortemente tipada
+    [x] Fortemente tipada
     [] Independente de plataforma
 
 [] Oque é *JVM*?
