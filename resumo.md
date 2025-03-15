@@ -12,3 +12,7 @@ Outras linguagens com javacript e python são linguagens multi-paradigmas (Lingu
 ### Fortemente tipada
 
 Todas as variavais e expresões, elas vão ter o tipo definido Explicitamente dentro do código. Ao longo da execução do programa, o tipo da variavel não muda!
+
+### Independente de plataforma
+
+Isso significa que java é uma linguagen portatil, conseguimos fazer que o nosso codigo seja executado em diferentes arquiteturas e diferentes OS(sistemas operacionais). Oque permite o java ser independente de plataforma é o JVM

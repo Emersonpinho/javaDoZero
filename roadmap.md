@@ -3,7 +3,7 @@
 [] A base da linguagem java
     [x] POO
     [x] Fortemente tipada
-    [] Independente de plataforma
+    [x] Independente de plataforma
 
 [] Oque é *JVM*?
 [] instalação
