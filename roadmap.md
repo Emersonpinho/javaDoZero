@@ -5,7 +5,7 @@
     [x] Fortemente tipada
     [x] Independente de plataforma
 
-[] Oque é *JVM*?
+[x] Oque é *JVM*?
 [] instalação
 
 [] Ambiente de desenvolvimento
