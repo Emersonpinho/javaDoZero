@@ -1,7 +1,7 @@
 # Java do zero
 
 [] A base da linguagem java
-    [] POO
+    [x] POO
     [] Fortemente tipada
     [] Independente de plataforma
 
