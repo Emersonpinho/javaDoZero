@@ -26,6 +26,14 @@ public class tiposPrimitivos {
             boolean => true ou false
         */
  
-        
+        byte b = 100;
+        short s = 10000;
+        int i = 100000;
+        long l = 1000000L;
+        float f = 10.5f;
+        double d = 20.5;
+        char c = 'A';
+        String str = "Emerson lindão";
+        boolean bool = true;
     }
 }
