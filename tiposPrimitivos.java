@@ -35,5 +35,13 @@ public class tiposPrimitivos {
         char c = 'A';
         String str = "Emerson lindão";
         boolean bool = true;
+
+
+
+        if (str == "Emerson lindão") {
+            System.out.println("Verdadeiro");
+        } else {
+            System.out.println("falso");
+        }
     }
 }
