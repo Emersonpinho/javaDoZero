@@ -37,3 +37,11 @@ codigo em java -> transforma ele em bytecode -> JVM
 ### Variaveis
 
 Espaço na memoria, não vamos falar sobre tipos de variaveis agora!
+
+para declara variavel 
+
+```md
+
+tipo nomeDaVariavel = valor;
+
+```

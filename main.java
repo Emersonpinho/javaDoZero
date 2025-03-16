@@ -4,8 +4,8 @@ public class main {
         int numero = 20;
 
         String palavra = "Estudei java e fiquei calvo";
-        
-        
+
+        var n1 = 1;
     }
 }
 
