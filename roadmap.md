@@ -6,8 +6,9 @@
     [x] Independente de plataforma
 
 [x] Oque é *JVM*?
-[x] instalação
+[x] Instalação
 
-[x] sintaxe Basica
-    [x] variaveis
-    [] Tipos primitivos
+[x] Sintaxe Basica
+    [x] Variaveis
+    [x] Tipos primitivos
+    [] Condicionais
