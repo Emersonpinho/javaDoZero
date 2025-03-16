@@ -36,14 +36,22 @@ public class main {
         String str = "Emerson";
         boolean bool = true;
 
+        //                         0  1  2  3  4  5  6  7
+        int[] colecaoDeInteiros = {1, 2, 3, 4, 5, 6, 7, 8};
+        
 
 
-        if (str != "") {
+        if (str.isBlank()) {
             System.out.println("Verdadeiro");
-        } else if (str == "Emerson"){
-            System.out.println("Emerson");
+        } else if (str == "desconhecido"){
+            System.out.println("deconhecido reconhecido");
         } else {
             System.out.println("Falso");
         }
+
+        System.out.println(colecaoDeInteiros[0]);
+
     }
+
+   
 }
