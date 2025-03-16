@@ -1,4 +1,4 @@
-public class tiposPrimitivos {
+public class main {
     public static void main(String[] args) {
         /*   
             numeros inteiros -> sem casas decimais
