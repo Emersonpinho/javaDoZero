@@ -33,15 +33,17 @@ public class tiposPrimitivos {
         float f = 10.5f;
         double d = 20.5;
         char c = 'A';
-        String str = "Emerson lindão";
+        String str = "Emerson";
         boolean bool = true;
 
 
 
-        if (str == "Emerson lindão") {
+        if (str != "") {
             System.out.println("Verdadeiro");
+        } else if (str == "Emerson"){
+            System.out.println("Emerson");
         } else {
-            System.out.println("falso");
+            System.out.println("Falso");
         }
     }
 }

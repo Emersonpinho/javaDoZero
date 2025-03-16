@@ -11,4 +11,4 @@
 [x] Sintaxe Basica
     [x] Variaveis
     [x] Tipos primitivos
-    [] Condicionais
+    [x] Condicionais
