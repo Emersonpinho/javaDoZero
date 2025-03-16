@@ -8,5 +8,6 @@
 [x] Oque é *JVM*?
 [x] instalação
 
-[] sintaxe Basica
-    [] variaveis
+[x] sintaxe Basica
+    [x] variaveis
+    [] Tipos primitivos
