@@ -36,9 +36,11 @@ public class main {
         String str = "Emerson";
         boolean bool = true;
 
-        //                         0  1  2  3  4  5  6  7
-        int[] colecaoDeInteiros = {1, 2, 3, 4, 5, 6, 7, 8};
-        
+        //                         0  1  2  3  4  5  6  7  8  9
+        int[] colecaoDeInteiros = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        colecaoDeInteiros[5] = 20;
+        int[] novaColecao = new int[10];
+        String novasPalavras = new String();
 
 
         if (str.isBlank()) {
@@ -49,7 +51,7 @@ public class main {
             System.out.println("Falso");
         }
 
-        System.out.println(colecaoDeInteiros[0]);
+        System.out.println(colecaoDeInteiros.length);
 
 
 
