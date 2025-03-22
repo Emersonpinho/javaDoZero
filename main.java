@@ -43,13 +43,13 @@ public class main {
         String novasPalavras = new String();
 
 
-        if (str.isBlank()) {
-            System.out.println("Verdadeiro");
-        } else if (str == "desconhecido"){
-            System.out.println("deconhecido reconhecido");
-        } else {
-            System.out.println("Falso");
-        }
+        // if (str.isBlank()) {
+        //     System.out.println("Verdadeiro");
+        // } else if (str == "desconhecido"){
+        //     System.out.println("deconhecido reconhecido");
+        // } else {
+        //     System.out.println("Falso");
+        // }
 
         System.out.println(colecaoDeInteiros.length);
 
