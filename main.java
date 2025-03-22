@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class main {
     public static void main(String[] args) {
         /*   
@@ -51,9 +53,12 @@ public class main {
         //     System.out.println("Falso");
         // }
 
-        System.out.println(colecaoDeInteiros.length);
+//        System.out.println(colecaoDeInteiros.length);
 
+        ArrayList<String> nomes = new ArrayList<>();
+        nomes.add("Emerson");
 
+        System.out.println(nomes);
 
     }
 
