@@ -12,6 +12,6 @@
     [x] Variaveis
     [x] Tipos primitivos
     [x] Condicionais
-    [] Vetor
-    [] ArrayList
-    [] Lops
+    [x] Vetor
+    [x] ArrayList
+    [x] Lops

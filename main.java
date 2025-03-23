@@ -43,7 +43,7 @@ public class main {
         colecaoDeInteiros[5] = 20;
         int[] novaColecao = new int[10];
         String novasPalavras = new String();
-
+    
 
         // if (str.isBlank()) {
         //     System.out.println("Verdadeiro");
@@ -55,11 +55,16 @@ public class main {
 
 //        System.out.println(colecaoDeInteiros.length);
 
+        //Array Dinamicos
+
         ArrayList<String> nomes = new ArrayList<>();
         nomes.add("Emerson");
+        nomes.add("Araujo");
+        nomes.add("pinho");
 
-        System.out.println(nomes);
+        nomes.remove("pinho");
 
+        System.out.println(nomes.get(1));
     }
 
    
